@@ -39,6 +39,9 @@ A use case diagram is a graphical depiction of a user's possible interactions wi
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
+
+<img width="1600" height="1131" alt="image" src="https://github.com/user-attachments/assets/0410bceb-7b89-4616-848a-2c210c5409b7" />
+
 # UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
@@ -124,6 +127,8 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1600" height="1131" alt="image" src="https://github.com/user-attachments/assets/788b94e4-aec5-4a23-8d9c-6929e49f57ff" />
+
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -136,7 +141,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-![Uploading image.png…]()
+
 
 
 
